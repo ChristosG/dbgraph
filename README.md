@@ -3,8 +3,9 @@ Java app in which user can create/modify a database and show different graphs of
 
 Application starts and initiallizes in the background a db with some country indicators.
 
-User can select specific indicators.
+User can ask the db about a specific indicator.
 
 User can compare different indicators.
 
-User can see d3 graphs based on the selected indicators.
+User can present the selected indicators through various graphs.
+
